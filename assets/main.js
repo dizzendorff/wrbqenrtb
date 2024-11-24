@@ -11,7 +11,7 @@ document.addEventListener("DOMC
         });
 
         Array.from(starsContainer.children).forEach(star => {
-            star.style.opacity = 0;
+            star.style.opacity = 10;
             star.classList.remove("show-star");
         });
     }
