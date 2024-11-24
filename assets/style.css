@@ -15,8 +15,7 @@ body {
 .mines-title {
     position: absolu
     color: #C1AB19;
-    display: inline-block;
-    animation: float 1.5s ease-in-out infinite;
+    display: inline-block;d
     transform-origin: center;
     -webkit-text-stroke: 0.5px #ffffff; /* Обводка цвета #C1AB19 /
     text-shadow: 
